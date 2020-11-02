@@ -2,7 +2,7 @@
 ### I am Lakshay Goyal Pursuing B.tech in Computer Science Engineering at UPES, Dehradun
 
 
-![](https://github-readme-stats.vercel.app/api?username=lakshaygoyal425&show_icons=true&line_height=30)
+![Lakshay's github stats](https://github-readme-stats.vercel.app/api?username=lakshaygoyal425&theme=dracula&show_icons=true)
 
 # Follow me on
 <a href="https://www.linkedin.com/in/lakshay-goyal-7b8227120/">
