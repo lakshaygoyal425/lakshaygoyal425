@@ -1,5 +1,5 @@
 # Hi there 👋
-### I am Lakshay Goyal Pursuing B.tech in Computer Science Engineering s at UPES, Dehradun
+### I am Lakshay Goyal Pursuing B.tech in Computer Science Engineering at UPES, Dehradun
 
 
 ![](https://github-readme-stats.vercel.app/api?username=lakshaygoyal425&show_icons=true&line_height=30)
