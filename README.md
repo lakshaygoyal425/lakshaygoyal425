@@ -1,8 +1,9 @@
 # Hi there 👋
 ### I am Lakshay Goyal Pursuing B.tech in Computer Science Engineering at UPES, Dehradun
 
-
+### I :heart: GitHub :octocat:
 ![Lakshay's github stats](https://github-readme-stats.vercel.app/api?username=lakshaygoyal425&show_icons=true&line_height=32&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaygoyal425&layout=compact&theme=vision-friendly-dark)
 
 
 # Follow me on
