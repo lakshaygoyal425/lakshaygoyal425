@@ -1,4 +1,4 @@
-# Hola, I'm [Lakshay Goyal!](https://lakshay.live) 👋
+# Hola, I'm Lakshay Goyal 👋
 ### I am Lakshay Goyal Pursuing B.tech in Computer Science Engineering at UPES, Dehradun
 <br>
 
