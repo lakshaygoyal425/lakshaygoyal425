@@ -9,7 +9,6 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/lakshay-goyal-7b8227120/)
 - 😄 Pronouns: He/His
-<br>
 
 ### Spotify Playing 🎧
 
