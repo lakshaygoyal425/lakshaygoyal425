@@ -9,11 +9,11 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/lakshay-goyal-7b8227120/)
 - 😄 Pronouns: He/His
-
+<br>
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
+<br>
 ### I :heart: GitHub :octocat:
 ![Lakshay's github stats](https://github-readme-stats.vercel.app/api?username=lakshaygoyal425&show_icons=true&line_height=32&theme=radical)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaygoyal425&layout=compact&theme=vision-friendly-dark)
