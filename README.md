@@ -2,7 +2,7 @@
 ### I am Lakshay Goyal Pursuing B.tech in Computer Science Engineering at UPES, Dehradun
 <br>
 
-- 🔭 I’m currently working on [301DaysofCode](https://frontier.xyz/)
+- 🔭 I’m currently working on 301DaysofCode
 - 🌱 I’m currently learning more about Deep Learning and AI
 - 👯 I’m looking to collaborate with other content creators
 - 🤔 I’m looking for help with Android
