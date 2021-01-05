@@ -35,16 +35,10 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br><br>
-# Follow me on
 
-<a href="https://www.linkedin.com/in/lakshay-goyal-7b8227120/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+## Connect with me:
 
-<a href="https://github.com/lakshaygoyal425">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-<a href="https://www.instagram.com/lakshaygoyal4/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a><br><br>
+<p align = "center">
+  
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/lakshay-goyal-7b8227120)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/lakshaygoyal4)
