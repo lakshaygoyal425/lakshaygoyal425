@@ -15,9 +15,9 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 <br>
 ### I :heart: GitHub :octocat:
+[<img src="https://github-profile-trophy.vercel.app/?username=lakshaygoyal425&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
 ![Lakshay's github stats](https://github-readme-stats.vercel.app/api?username=lakshaygoyal425&show_icons=true&line_height=32&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lakshaygoyal425&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[<img src="https://github-profile-trophy.vercel.app/?username=lakshaygoyal425&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaygoyal425&layout=compact&theme=vision-friendly-dark)
 
 
