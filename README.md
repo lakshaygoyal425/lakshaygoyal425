@@ -3,7 +3,6 @@
 <br>
 
 - 🔭 Currently growing my skillset in Machine Learning and Data Science.
-- 🌱 I’m currently learning more about Deep Learning and AI
 - 👯 I’m looking to collaborate with other content creators
 - 🤔 I’m looking for help with Android
 - 💬 Ask me about ... Anything
